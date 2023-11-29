@@ -1,0 +1,9 @@
+ID do Controlador: 1, Payload: Accelerometer data, Data/Hora: 0:0:6 AM
+ID do Controlador: 2, Payload: INVALID, Data/Hora: 0:0:8 AM
+ID do Controlador: 1, Payload: Accelerometer data, Data/Hora: 0:0:12 AM
+ID do Controlador: 2, Payload: INVALID, Data/Hora: 0:0:16 AM
+ID do Controlador: 1, Payload: Accelerometer data, Data/Hora: 0:0:18 AM
+ID do Controlador: 2, Payload: INVALID, Data/Hora: 0:0:24 AM
+ID do Controlador: 1, Payload: Accelerometer data, Data/Hora: 0:0:24 AM
+ID do Controlador: 1, Payload: Accelerometer data, Data/Hora: 0:0:29 AM
+ID do Controlador: 2, Payload: INVALID, Data/Hora: 0:0:32 AM
