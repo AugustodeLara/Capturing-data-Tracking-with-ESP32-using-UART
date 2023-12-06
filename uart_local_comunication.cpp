@@ -189,7 +189,7 @@ void saveToFileThread(std::vector<Event>& eventList) {
             lock.unlock();  // Liberar o mutex antes de escrever no arquivo
 
             if (!eventsToSave.empty()) {
-                std::ofstream outputFile("eventList15.txt", std::ios::app);  // Modo de anexo
+                std::ofstream outputFile("eventList10.txt", std::ios::app);  // Modo de anexo
                 if (outputFile.is_open()) {
                     for (const auto& event : eventsToSave) {
                         outputFile << "ID do Controlador: " << event.controllerId
@@ -207,7 +207,7 @@ void saveToFileThread(std::vector<Event>& eventList) {
 }
 
 int main() {
-    UARTConfig uart("/dev/ttyACM1", B115200);
+    UARTConfig uart("/dev/ttyUSB0", B115200);
 
     if (!uart.openPort() || !uart.configurePort()) {
         return 1;
@@ -223,7 +223,7 @@ int main() {
     std::thread saveToFile(saveToFileThread, std::ref(eventList));
     std::thread userInputThread(getUserOption);
 
-    std::string fileName = "eventList15.txt";
+    std::string fileName = "eventList10.txt";
     std::cout << "Checando elementos no arquivo...\n";
 
     if (checkIfThreeElementsExist(fileName)) {

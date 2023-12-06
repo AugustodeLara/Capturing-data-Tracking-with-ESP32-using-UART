@@ -1,0 +1,22 @@
+ID do Controlador: 1, Payload: Accelerometer data, Data/Hora: 0:0:6 AM
+ID do Controlador: 2, Payload: INVALID, Data/Hora: 0:0:7 AM
+ID do Controlador: 1, Payload: Accelerometer data, Data/Hora: 0:0:9 AM
+ID do Controlador: 2, Payload: INVALID, Data/Hora: 0:0:13 AM
+ID do Controlador: 1, Payload: Accelerometer data, Data/Hora: 0:0:13 AM
+ID do Controlador: 1, Payload: Accelerometer data, Data/Hora: 0:0:18 AM
+ID do Controlador: 2, Payload: INVALID, Data/Hora: 0:0:19 AM
+ID do Controlador: 1, Payload: Accelerometer data, Data/Hora: 0:0:21 AM
+ID do Controlador: 2, Payload: INVALID, Data/Hora: 0:0:25 AM
+ID do Controlador: 1, Payload: Accelerometer data, Data/Hora: 0:0:25 AM
+ID do Controlador: 1, Payload: Accelerometer data, Data/Hora: 0:0:29 AM
+ID do Controlador: 2, Payload: INVALID, Data/Hora: 0:0:30 AM
+ID do Controlador: 1, Payload: Accelerometer data, Data/Hora: 0:0:32 AM
+ID do Controlador: 2, Payload: INVALID, Data/Hora: 0:0:36 AM
+ID do Controlador: 1, Payload: Accelerometer data, Data/Hora: 0:0:36 AM
+ID do Controlador: 1, Payload: Accelerometer data, Data/Hora: 0:0:41 AM
+ID do Controlador: 2, Payload: INVALID, Data/Hora: 0:0:42 AM
+ID do Controlador: 1, Payload: Accelerometer data, Data/Hora: 0:0:44 AM
+ID do Controlador: 2, Payload: INVALID, Data/Hora: 0:0:48 AM
+ID do Controlador: 1, Payload: Accelerometer data, Data/Hora: 0:0:48 AM
+ID do Controlador: 1, Payload: Accelerometer data, Data/Hora: 0:0:53 AM
+ID do Controlador: 2, Payload: INVALID, Data/Hora: 0:0:54 AM
